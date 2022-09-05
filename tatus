@@ -1,0 +1,29 @@
+[33mcommit faf4ac116bbba91084e1546080396ac531c9a87f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: lining <1084823532@qq.com>
+Date:   Sat Sep 3 14:26:29 2022 +0800
+
+    git tracks changes
+
+[33mcommit b72f10d91687dc9065ddf66fa0eae64365c71aab[m
+Author: lining <1084823532@qq.com>
+Date:   Sat Sep 3 14:23:18 2022 +0800
+
+    understand how stage works
+
+[33mcommit 46cf1e9ad47984d5643996ac07ed3bfa65a7f7af[m
+Author: lining <1084823532@qq.com>
+Date:   Sat Sep 3 13:38:38 2022 +0800
+
+    append GPL
+
+[33mcommit c633329a34b7c1f27375f1560df6b0d59eebe93d[m
+Author: lining <1084823532@qq.com>
+Date:   Sat Sep 3 13:36:37 2022 +0800
+
+    add two sentences
+
+[33mcommit d2e5241d41ff4149c7d389bd4e837580920ad267[m
+Author: lining <1084823532@qq.com>
+Date:   Sat Sep 3 13:28:03 2022 +0800
+
+    wrote a test file
